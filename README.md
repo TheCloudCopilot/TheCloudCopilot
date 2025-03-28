@@ -11,7 +11,7 @@
 I am a Senior Microsoft 365 Consultant with deep dives into topics like Copilot for Microsoft 365.
 
 📫 **How to reach me:**
-- 🐦 [BlueSky](https://bsky.app/profile/thecloudcopilot.com)
+- 🦋 [BlueSky](https://bsky.app/profile/thecloudcopilot.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/philippkohn/)
 
 ⚡ **Fun fact:** I'm always amazed by the complexities of computers and often wonder how this awesome machine actually works! 😂
