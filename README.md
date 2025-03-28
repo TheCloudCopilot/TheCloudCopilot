@@ -8,7 +8,7 @@
 - Prompt Engineering for optimal use of AI Tools like Bing Chat, ChatGPT, and Midjourney
 
 💬 **Ask me about:** 
-I am a Senior Microsoft 365 Consultant with deep dives into topics like Copilot for Microsoft 365.
+I am a Senior Microsoft 365 Consultant with deep dives into topics like Microsoft 365 & Microsoft Entra
 
 📫 **How to reach me:**
 - 🦋 [BlueSky](https://bsky.app/profile/thecloudcopilot.com)
