@@ -1,6 +1,6 @@
 # Hi there, I'm Philipp Kohn! 👋
 
-🔭 **I’m currently working on:** [Persona Based Conditional Access Framework for Zero Trust](https://github.com/philippkohn/ConditionalAccessforZeroTrustResources)
+🔭 **I’m currently working on:** [Persona Based Conditional Access Framework for Zero Trust](https://github.com/TheCloudCopilot/ConditionalAccessforZeroTrustResources)
 
 🌱 **I’m currently learning:** 
 - Microsoft Graph PowerShell SDK
